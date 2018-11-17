@@ -8,6 +8,7 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
     if number = 0
       break
-end
+    end
+  end
 
 end
