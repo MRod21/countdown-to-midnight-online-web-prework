@@ -16,5 +16,5 @@ def countdown(number)
 end
 
 def countdown_with_sleep(pause)
-  sleep 5
+  sleep 7
 end
